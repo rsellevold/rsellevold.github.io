@@ -6,10 +6,6 @@ image:
 nav-menu: true
 ---
 
-# Future ice sheet and global climate evolution
+## Global climate modeling
 
-```python
-def longwave():
-	a = a+b
-	return a
-```
+## Future ice sheet and global climate evolution
