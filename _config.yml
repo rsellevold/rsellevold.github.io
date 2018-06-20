@@ -1,52 +1,36 @@
-logo: Home # add logo name
-title: Raymond Sellevold
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-permalink: ':title/'
+# site settings
+title: Home
+subtitle: 
+email: R.Sellevold-1@tudelft.nl
+description: Make a brief description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rsellevold.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: # the base hostname & protocol for your site
+author: Raymond Sellevold
+street_address: Stevinweg 1
+city: 2181 CN
+state: Delft
+zip_code: Zuid-Holland
+country: The Netherlands
+phone: 
 
-# Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
 
-# Author settings
-author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/rsellevold
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url: http://twitter.com/rsel89
 
-# Social link
-google_url:    # add url link
-twitter_url:   # add url link
-instagram_url: # add url link
-pinterest_url: # add url link
-dribbble_url:  # add url link
-facebook_url:  # add url link
-
-# Disqus
-discus_identifier: mr-brown # add your discus identifier
-
-# Newsletter
-mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-
-# Tracker
-analytics:
-
-# Paginate
-paginate: 12
-paginate_path: /page:num/
-
-# Build settings
+# build settings
 markdown: kramdown
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
 
-include: [_pages]
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+sass:
+  style: compressed
