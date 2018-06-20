@@ -3,10 +3,12 @@ title: Home
 subtitle: 
 email: R.Sellevold-1[at]tudelft.nl
 email2: R.Sellevold-1@tudelft.nl
-description: PhD Candidate at TU Delft <br /> Ice sheet and global climate interactions
+description: PhD Candidate at Delft University of Technology (TU Delft) <br /> Ice sheet and global climate interactions
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rsellevold.github.io" # the base hostname & protocol for your site
 author: Raymond Sellevold
+faculty: Faculty of Civil Engineering and Geoscience
+dept: Geoscience and remote sensing
 room: Room 2.49
 street_address: Stevinweg 1
 city: Delft
