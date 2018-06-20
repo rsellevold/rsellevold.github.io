@@ -1,15 +1,16 @@
 # site settings
 title: Home
 subtitle: 
-email: R.Sellevold-1@tudelft.nl
+email: R.Sellevold-1[at]tudelft.nl
 description: PhD Candidate at TU Delft <br /> Ice sheet and global climate interactions
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rsellevold.github.io" # the base hostname & protocol for your site
 author: Raymond Sellevold
+room: Room 2.49
 street_address: Stevinweg 1
-city: 2181 CN
-state: Delft
-zip_code: Zuid-Holland
+city: Delft
+state: 
+zip_code: 2628 CN
 country: The Netherlands
 phone: 
 
